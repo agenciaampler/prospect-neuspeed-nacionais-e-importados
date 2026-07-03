@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Atendimento multimarcas",
+    "hero_line": "Atendimento para importados como BMW, Audi, Mercedes-Benz, Volkswagen, Volvo, com contato dire…",
+    "services_headline": "Serviços para as marcas que rodam pela região.",
+    "services_intro": "A página da Neuspeed - Nacionais E Importados mostra serviços, localização e WhatsApp em uma jornada simples, pensada para conversão mobile.",
+    "split_headline": "Informe marca, modelo e o que precisa.",
+    "confidence_headline": "Neuspeed - Nacionais E Importados: nota 4,8 no Google, endereço claro e contato…",
+    "location_headline": "Rota para a Neuspeed - Nacionais E Importados em Portão.",
+    "steps_headline": "Veja, chame e agende.",
+    "faq_headline": "Dúvidas antes de chamar no WhatsApp.",
+    "service_cards": [
+        {
+            "title": "Perfil multimarcas",
+            "body": "A página deixa claro o tipo de carro que a oficina atende.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Serviço orientado",
+            "body": "O motorista informa marca, modelo e necessidade pelo WhatsApp.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Revisões e reparos",
+            "body": "Informações organizadas para reduzir dúvida antes do orçamento.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Primeira orientação rápida",
+            "body": "A Neuspeed - Nacionais E Importados recebe o caso pelo WhatsApp e indica o melhor próximo passo.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Atendimento para importados",
+            "body": "Marcas como BMW, Audi, Mercedes-Benz, Volkswagen, Volvo aparecem com clareza na página.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Localização evidente",
+            "body": "Mapa, rota e bairro ajudam quem está perto de Portão a decidir.",
+            "icon": "ph-map-pin"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Como peço um orçamento?",
+            "answer": "Chame a Neuspeed - Nacionais E Importados pelo WhatsApp, envie modelo, ano e descreva o problema."
+        },
+        {
+            "question": "Quais carros atende?",
+            "answer": "A página destaca BMW, Audi, Mercedes-Benz, Volkswagen, Volvo. A oficina confirma seu modelo pelo WhatsApp."
+        },
+        {
+            "question": "Onde fica?",
+            "answer": "R. Pinheiro Guimarães, 773 - Portão, Curitiba - PR, 80330-250"
+        },
+        {
+            "question": "Por que essa página ajuda?",
+            "answer": "Ela organiza serviços, localização, marcas e contato para facilitar decisão e leitura por buscadores/IAs."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Recorte mobile com oficina em dia claro e area limpa para texto de Neuspeed - Nacionais E Importados.",
+        "hero_desktop": "Hero desktop com pessoa/carro à direita e respiro à esquerda para copy.",
+        "service_1": "Diagnostico ou atendimento tecnico em oficina limpa e seca.",
+        "service_2": "Freios, pneus ou suspensao com foco em seguranca.",
+        "trust": "Atendimento humano e consultivo, pessoas diferentes do hero.",
+        "og_image": "Preview limpo para WhatsApp com oficina em dia claro."
+    },
+    "quality_checks": [
+        "Hero curto e sem texto sobre rosto ou carro principal.",
+        "CTA de WhatsApp visivel no mobile.",
+        "Servicos, bairro, marcas, mapa e FAQ claros para SEO/GEO."
+    ],
+    "created_by": "local-batch:reuse-images",
+    "created_at": "2026-07-03T11:03:34-03:00"
+}
